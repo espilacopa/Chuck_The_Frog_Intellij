@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="starling2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Starling-Framework/starling/bin/starling.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
